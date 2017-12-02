@@ -4,7 +4,7 @@ var BasicCard = function(front, back) {
 	this.back = back;
    };
    
-// Exports BasicCard constructor, required in main.js
+// Exports BasicCard constructor, required in FlashCardGame.js
 module.exports = BasicCard;
 
  
